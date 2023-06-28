@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Compose Submission</string>
+    <string name="kembali">Kembali</string>
+    <string name="tambah_favorit">Tambah ke Favorit</string>
+    <string name="favorit">Tambah Favorit</string>
+    <string name="hapus_favorit">Hapus Favorit</string>
+    <string name="tidak_favorit">Hapus Favorit</string>
+    <string name="halaman_favorit">Halaman Favorit</string>
+    <string name="halaman_profile">Halaman Profile</string>
+    <string name="sampul">Sampul Buku</string>
+    <string name="cari">Cari Buku</string>
+    <string name="hitung_favorit"> %s Buku Favorit</string>
+    <string name="nama_text">Nama</string>
+    <string name="nama">Raynaldi Zulfikar</string>
+    <string name="email_text">Email</string>
+    <string name="email">raynaldizoel@gmail.com</string>
+    <string name="email_bangkit">Email Bangkit</string>
+    <string name="bangkit_email">a042dkx4396@bangkit.academy</string>
+
+</resources>
